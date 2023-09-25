@@ -1,0 +1,25 @@
+.count{
+    display:flex;
+}
+.image_{
+    height:5vh;
+}
+.failure{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+  height:90vh;
+  width:80vw;
+}
+.failure-logo{
+  height:20vh;
+}
+.like-button{
+  color:#2563eb;
+  background-color:white;
+}
+.button-inactive{
+  color:#64748b;
+  background-color:#2563eb;
+}

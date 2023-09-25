@@ -1,0 +1,23 @@
+.image{
+    height:20vh;
+}
+.list{
+    list-style:none;
+}
+.items{
+    display:flex;
+}
+.failure{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+  height:90vh;
+  width:80vw;
+}
+.failure-logo{
+  height:20vh;
+}
+.link{
+  color:white;
+}
